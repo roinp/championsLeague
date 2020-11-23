@@ -1,0 +1,71 @@
+.mmm {
+   
+   margin: auto;
+   width: 400px;
+   
+}
+.main {
+    padding: 15px;
+    font-size: 20px;
+    font-weight: bold;
+    border: solid;
+    border-radius: 15px;
+    background-color:black;
+    color: white
+}
+
+.middle tr,td {
+    text-align: center;
+    border: 2px solid;
+    margin:30px;
+    border-radius: 5px;
+    background-color: green;
+    color: white;
+}
+
+.select  {
+    display: inline-block;
+    background-color: black;
+    color: white;
+    padding: 5px;
+    font-size: 10px;
+    font-weight: bold;
+    border-radius: 8px;
+    height: 30px;
+    padding: 5px;
+    margin-top: 10px;
+    text-align: center;
+    box-sizing: border-box
+}
+
+.value {
+    tab-size: 5px;
+    border-radius: 5px;
+    width: 40px;
+    height: 25px;
+    text-align: center;
+    background-color:black;
+    color: white;
+    font-size: 15px;
+    
+}
+
+.submit input {
+    width: 80px;
+    height: 35px;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color:greenyellow;
+    color: black;
+    font-size: large;
+    font-weight: bold;
+    border: 2px solid;
+    margin-top: 10px;
+    text-align: center;
+    
+}
+
+.choese {
+    margin-top: 20px;
+    text-align: center;
+}
